@@ -4,7 +4,7 @@ Ez az oldal segít a tanfolyamhoz tartozó e-learning anyagok áttekintésében.
 
 ### Haladó Python
 
-A Haladó Python e-learning videókat itt fogod találni: https://e-learning.training360.com/courses/take/python-halado/texts/13807566-feltetelezett-elokepzettseg
+A [Haladó Python e-learning](https://e-learning.training360.com/courses/take/python-halado/texts/13807566-feltetelezett-elokepzettseg):
 
 Erősen ajánlott részek:
 * Bevezető
