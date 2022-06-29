@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Network Engineering és Network Automation Python segítségével
 
-You can use the [editor on GitHub](https://github.com/Training360/py-net/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ez az oldal segít a tanfolyamhoz tartozó e-learning anyagok áttekintésében. A tananyag amit el kell sajátítani több e-learining anyagra épít. Ezeknek van erősen ajánlott ("kötelező") része és opcionális részeik. Amennyiben időd engedi érdemes az opcionális részeket is meghallgatni, de nem érdemes erősen ajánlott részeket ezért kihangyni. Úgy szervezzd az anyag feldolgozását, hogy a saját tempódba beleférjen az ajánlott részek mindegyike.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Haladó Python
 
-### Markdown
+A Haladó Python e-learning videókat itt fogod találni: https://e-learning.training360.com/courses/take/python-halado/texts/13807566-feltetelezett-elokepzettseg
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Erősen ajánlott részek:
+* Bevezető
+* Funkcionális programozás
+* Haladó OOP
+* Párhuzamos programozás
+* HTTP kezelés
 
-```markdown
-Syntax highlighted code block
+Opcionális részek:
+* Adatkezelés, Numpy, Pandas
+* Csomagolás
+* Tesztelés, TDD
+* REST service építés
+* Aszinkron programozás
 
-# Header 1
-## Header 2
-### Header 3
+### Python Network Automation
+A Python hálózati automatizálás e-learning anyagokat itt találdo meg: [todo]
 
-- Bulleted
-- List
+### Ansible
+Az Ansible tananyagunk több e-learning kurzusra van osztva:
+Erősen ajánlott részek:
+* [Ansible 1. - Ansible alapok](https://e-learning.training360.com/courses/take/ansible-1-ansible-alapok/lessons/33262238-01-ansible-bemutatasa)
+* [Ansible 2. - Ansible változók](https://e-learning.training360.com/courses/take/ansible-2-ansible-valtozok/lessons/33262228-01-inventroy-kiegeszitese-valtozokkal)
+* [Ansible 3. - Ansible template](https://e-learning.training360.com/courses/take/ansible-3-ansible-template/lessons/33262221-01-template-bevezeto)
+Opcionális részek:
+* [Ansible 4. - Ansible role](https://e-learning.training360.com/courses/take/ansible-4-ansible-role/lessons/33262212-01-bevezetes)
+* [Ansible 5. - Ansible jinja2 függvények](https://e-learning.training360.com/courses/take/ansible-5-ansible-jinja2-fuggvenyek/lessons/33262199-01-bevezeto)
+* [Ansible 6. - Ansible vault](https://e-learning.training360.com/courses/take/ansible-6-ansible-vault/lessons/33262192-01-bevezeto)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Training360/py-net/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Ansible Network Automation Feladatok
+[TODO]
