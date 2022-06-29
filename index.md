@@ -21,18 +21,22 @@ Opcionális részek:
 * Aszinkron programozás
 
 ### Python Network Automation
+
 A Python hálózati automatizálás e-learning anyagokat itt találdo meg: [todo]
 
 ### Ansible
+
 Az Ansible tananyagunk több e-learning kurzusra van osztva:
 Erősen ajánlott részek:
 * [Ansible 1. - Ansible alapok](https://e-learning.training360.com/courses/take/ansible-1-ansible-alapok/lessons/33262238-01-ansible-bemutatasa)
 * [Ansible 2. - Ansible változók](https://e-learning.training360.com/courses/take/ansible-2-ansible-valtozok/lessons/33262228-01-inventroy-kiegeszitese-valtozokkal)
 * [Ansible 3. - Ansible template](https://e-learning.training360.com/courses/take/ansible-3-ansible-template/lessons/33262221-01-template-bevezeto)
+
 Opcionális részek:
 * [Ansible 4. - Ansible role](https://e-learning.training360.com/courses/take/ansible-4-ansible-role/lessons/33262212-01-bevezetes)
 * [Ansible 5. - Ansible jinja2 függvények](https://e-learning.training360.com/courses/take/ansible-5-ansible-jinja2-fuggvenyek/lessons/33262199-01-bevezeto)
 * [Ansible 6. - Ansible vault](https://e-learning.training360.com/courses/take/ansible-6-ansible-vault/lessons/33262192-01-bevezeto)
 
 #### Ansible Network Automation Feladatok
+
 [TODO]
