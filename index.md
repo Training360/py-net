@@ -2,7 +2,7 @@
 
 Ez az oldal segít a tanfolyamhoz tartozó e-learning anyagok áttekintésében. A tananyag amit el kell sajátítani több e-learining anyagra épít. Ezeknek van erősen ajánlott ("kötelező") része és opcionális részeik. Amennyiben időd engedi érdemes az opcionális részeket is meghallgatni, de nem érdemes erősen ajánlott részeket ezért kihangyni. Úgy szervezzd az anyag feldolgozását, hogy a saját tempódba beleférjen az ajánlott részek mindegyike.
 
-### Haladó Python
+### Első nap+ anyaga: Haladó Python
 
 A [Haladó Python e-learning](https://e-learning.training360.com/courses/take/python-halado/texts/13807566-feltetelezett-elokepzettseg):
 
@@ -20,11 +20,9 @@ Opcionális részek:
 * REST service építés
 * Aszinkron programozás
 
-### Python Network Automation
+### Második nap anyaga: 
 
-A Python hálózati automatizálás e-learning anyagokat itt találdo meg: [todo]
-
-### Ansible
+#### Ansible (kb fél nap meg amennyi még kell)
 
 Az Ansible tananyagunk több e-learning kurzusra van osztva:
 Erősen ajánlott részek:
@@ -37,6 +35,16 @@ Opcionális részek:
 * [Ansible 5. - Ansible jinja2 függvények](https://e-learning.training360.com/courses/take/ansible-5-ansible-jinja2-fuggvenyek/lessons/33262199-01-bevezeto)
 * [Ansible 6. - Ansible vault](https://e-learning.training360.com/courses/take/ansible-6-ansible-vault/lessons/33262192-01-bevezeto)
 
-#### Ansible Network Automation Feladatok
+Az Ansible kurzust a network automation-höz használt környezetben fogjuk begyakorolni. Ehhez az első nap elő konzultációján adok anyagot és demonstrálom a használatát
 
-[TODO]
+#### Python Network Automation
+
+A Python hálózati automatizálás e-learning anyagokat itt találdo meg: [todo]
+
+### Harmadik nap anyaga:
+#### Python Network Automation (folytatás)
+
+A Python hálózati automatizálás e-learning anyagokat itt találdo meg: [todo]
+
+#### MDP (Model Driven Programmability)
+Élő konzin kerül leoktatásra a harmadik napon
