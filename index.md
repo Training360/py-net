@@ -39,12 +39,12 @@ Az Ansible kurzust a network automation-höz használt környezetben fogjuk begy
 
 #### Python Network Automation
 
-A Python hálózati automatizálás e-learning anyagokat itt találdo meg: [todo]
+A Python hálózati automatizálás e-learning anyagokat itt találdo meg: [Python hálózati automatizálás](https://e-learning.training360.com/courses/take/python-kiegeszitesek/)
 
 ### Harmadik nap anyaga:
 #### Python Network Automation (folytatás)
 
-A Python hálózati automatizálás e-learning anyagokat itt találdo meg: [todo]
+A Python hálózati automatizálás e-learning anyagokat itt találdo meg: [Python hálózati automatizálás](https://e-learning.training360.com/courses/take/python-kiegeszitesek/)
 
 #### MDP (Model Driven Programmability)
 Élő konzin kerül leoktatásra a harmadik napon
